@@ -1,3 +1,6 @@
+//samuel daniel
+//reg:BCS-03-0118/2025
+
 #include <iostream>
 using namespace std;
 const float p =3.14;
@@ -11,4 +14,5 @@ int main(){
     vol = volume(r);
     cout<<"The volume is :"<<vol<<endl;
     return 0;
+
 }
